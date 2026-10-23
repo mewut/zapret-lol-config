@@ -1,0 +1,8 @@
+domain.example.abc
+Deepseek.com
+riotgames.com
+leagueoflegends.com
+pvp.net
+riotcdn.net
+riot-client.com
+edgesuite.net

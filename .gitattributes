@@ -1,0 +1,7 @@
+# Preserve files byte-for-byte: .bat and lists use CRLF and non-UTF8 encodings.
+* -text
+
+*.exe binary
+*.dll binary
+*.sys binary
+*.bin binary
