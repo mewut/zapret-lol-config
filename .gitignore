@@ -4,3 +4,8 @@
 
 Thumbs.db
 desktop.ini
+
+# Local backups: keep out of the repo
+*.backup-*
+*-backup-*/
+**/Новая папка/

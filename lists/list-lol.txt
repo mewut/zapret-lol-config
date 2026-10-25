@@ -1,0 +1,6 @@
+riotgames.com
+leagueoflegends.com
+riotcdn.net
+pvp.net
+riot-client.com
+rgpub.io
